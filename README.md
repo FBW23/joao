@@ -36,7 +36,13 @@ Internal links [Julien](../../../julien)
 
 ![image](images/episode8.jpg)
 :sleepy:
-#checkboxes
+# checkboxes
 - [x] buy groceries
 - [ ] cook the lasagne
 - [ ] eating
+
+# Table
+
+|Real Name|Alice| Bob| Carl|
+|-|-|-|-|
+|Nick Name|al   |Spongebob|CJ|
