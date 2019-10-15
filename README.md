@@ -34,4 +34,4 @@ Internal links [Julien](../../../julien)
 # Anchors in Markdown 
 [link to an anchor](#anchors-in-markdown)
 
-![image](episode.8.jpg)
+![image](images/episode8.jpg)
