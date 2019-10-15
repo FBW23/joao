@@ -41,6 +41,7 @@ Internal links [Julien](../../../julien)
 - [x] cook the lasagne
 - [x] eating
 - [x] pooping
+- [x] smoking a fat joint
 
 # Table
 
