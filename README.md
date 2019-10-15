@@ -48,3 +48,4 @@ Internal links [Julien](../../../julien)
 |Nick Name|al   |Spongebob|CJ|
 |phone numbers|123456  |345672|76573927|
 |Hometown|Argentina   |Brazil|Canada|
+|Flags|:argentina:|:brazil:|:canada:|
