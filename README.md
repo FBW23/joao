@@ -38,8 +38,9 @@ Internal links [Julien](../../../julien)
 :sleepy:
 # checkboxes
 - [x] buy groceries
-- [ ] cook the lasagne
-- [ ] eating
+- [x] cook the lasagne
+- [x] eating
+- [x] pooping
 
 # Table
 
