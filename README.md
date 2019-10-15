@@ -36,3 +36,7 @@ Internal links [Julien](../../../julien)
 
 ![image](images/episode8.jpg)
 :sleepy:
+#checkboxes
+- [x] buy groceries
+- [ ] cook the lasagne
+- [ ] eating
